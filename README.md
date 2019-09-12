@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Probot is a robot that welcomes you!
+- It helps you when you're new.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Welcomes
+- Helps
 
 ## Getting started
 
