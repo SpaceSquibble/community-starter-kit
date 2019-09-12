@@ -35,4 +35,9 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome!
+Great to have you!
+Hello!
+Welcome to the dark side.
+Yo.
+Get out of my swamp!
